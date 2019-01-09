@@ -1,0 +1,11 @@
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\bin\Debug\netcoreapp2.2\vendmach.deps.json
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\bin\Debug\netcoreapp2.2\vendmach.runtimeconfig.json
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\bin\Debug\netcoreapp2.2\vendmach.runtimeconfig.dev.json
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\bin\Debug\netcoreapp2.2\vendmach.dll
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\bin\Debug\netcoreapp2.2\vendmach.pdb
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\obj\Debug\netcoreapp2.2\vendmach.csprojAssemblyReference.cache
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\obj\Debug\netcoreapp2.2\vendmach.csproj.CoreCompileInputs.cache
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\obj\Debug\netcoreapp2.2\vendmach.AssemblyInfoInputs.cache
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\obj\Debug\netcoreapp2.2\vendmach.AssemblyInfo.cs
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\obj\Debug\netcoreapp2.2\vendmach.dll
+C:\Users\Malik Whitfield\source\codeworks\csharp\vendmach\obj\Debug\netcoreapp2.2\vendmach.pdb
